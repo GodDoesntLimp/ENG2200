@@ -1,2 +1,3 @@
 # ENG2200
-test 1 of raccoon game
+Welcome to Escape From The Grammar Police!
+You're a Raccoon who is trying to flee from the Gramma Police
